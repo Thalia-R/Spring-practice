@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91ac7798-f1fb-4268-9dbf-5496626bd1fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b7CSQQAKx2ZgY1XUc5TiHHZKxI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ThaliaR\Downloads\bookserviceStarter-1\udemy\src" />
+      <recent name="C:\Users\ThaliaR\Downloads\bookserviceStarter-1\udemy\src\com\springdemo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BeanScopeDemoApp">
+    <configuration name="BeanScopeDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springdemo.BeanScopeDemoApp" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springdemo.HelloSpringApp" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springdemo.MyApp" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetterDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.springdemo.SetterDemoApp" />
+      <module name="udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BeanScopeDemoApp" />
+        <item itemvalue="Application.SetterDemoApp" />
+        <item itemvalue="Application.HelloSpringApp" />
+        <item itemvalue="Application.MyApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91ac7798-f1fb-4268-9dbf-5496626bd1fd" name="Default Changelist" comment="" />
+      <created>1587973743797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587973743797</updated>
+      <workItem from="1587973747313" duration="2562000" />
+      <workItem from="1588060509647" duration="3214000" />
+      <workItem from="1588575226427" duration="10266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="128" key="#Project_Structure" timestamp="1587973922619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="558" y="128" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1587973922619" />
+    <state x="978" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1588587596856">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="978" y="126" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588587596856" />
+    <state x="951" y="301" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588664754326">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="951" y="301" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1588664754326" />
+    <state width="723" height="148" key="GridCell.Tab.0.bottom" timestamp="1588664696448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="148" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588664696448" />
+    <state width="723" height="148" key="GridCell.Tab.0.center" timestamp="1588664696448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="148" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588664696448" />
+    <state width="723" height="148" key="GridCell.Tab.0.left" timestamp="1588664696448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="148" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588664696448" />
+    <state width="723" height="148" key="GridCell.Tab.0.right" timestamp="1588664696448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="148" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588664696448" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1588062301931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588062301931" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1588062301931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588062301931" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1588062301931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588062301931" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1588062301931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588062301931" />
+    <state x="555" y="59" key="SettingsEditor" timestamp="1588060876465">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="59" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588060876465" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1588060512302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588060512302" />
+    <state x="431" y="96" key="spring file set editor" timestamp="1588061687043">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="96" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1588061687043" />
+  </component>
+</project>
